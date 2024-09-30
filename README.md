@@ -6,5 +6,4 @@ PostgreSQL Checkpoint #7
 ## Student-ID
 ```
 6510110115 Sareef Masamaeng
-
 ```
